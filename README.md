@@ -1,22 +1,36 @@
 # 👋 I'm Vestersly | Cloud & Security Engineer
-> Focused on High-Availability AWS Architectures, Linux Hardening, and DevSecOps Governance.
+> Specialized in High-Availability AWS Architectures, Linux Hardening, and DevSecOps Governance.
 
 ---
 
-### 🛡️ Enterprise Security & Governance
-* **[Intrusion Detection System (Orange Belgium Collaboration)](LINK_TO_HIDS_REPO)** - Host-based intrusion detection (HIDS) developed for industry monitoring.
-* **[Network Security & DMZ Design](LINK_TO_NMAP_REPO)** - Enterprise network segmentation and auditing using Nmap and Wireshark.
-* **[Linux Server Hardening Suite](LINK_TO_HARDENING_REPO)** - Automated security policies for high-stakes server environments.
+### 🏛️ Professional Project Pillars
 
-### ☁️ AWS Architecture & Scalability
-* **[Project Valora: Secure Transaction Framework](LINK_TO_VALORA_REPO)** - A high-availability digital asset system designed for scalability and data integrity.
-* **[Secure 3-Tier AWS Environment](LINK_TO_AWS_DEV_REPO)** - Multi-AZ VPC architecture with RDS failover and IAM governance.
+#### 🛡️ 1. Enterprise Security & Governance
+* **[Intrusion Detection System (Orange Belgium Collaboration)](https://github.com/vestersly/linux-intrusion-detection-system)** - A modular Bash-based HIDS for real-time monitoring and automated alerting.
+* **[Network Security & DMZ Design](https://github.com/vestersly/nmap-wireshark-lab)** - Enterprise-grade network segmentation and vulnerability auditing using Nmap and Wireshark.
+* **[Python Network Audit Tool](https://github.com/vestersly/port_scanner_project)** - Multithreaded security scanner for rapid reconnaissance in zero-trust environments.
+* **[Linux Server Hardening Suite](https://github.com/vestersly/linux-intrusion-detection-system)** - Automation of SSH/UFW policies and least-privilege governance.
 
-### ⚙️ Automation & DevSecOps
-* **[Corporate DevSecOps Pipeline](LINK_TO_DEVSECOPS_REPO)** - Full CI/CD with integrated Trivy scanning, SonarQube quality checks, and Kubernetes.
-* **[Python Network Audit Tool](LINK_TO_SCANNER_REPO)** - Multithreaded security scanner for rapid network reconnaissance.
+#### ☁️ 2. AWS Architecture & Scalability
+* **[Project Valora: Secure Transaction Framework](https://github.com/vestersly)** - (Architectural Case Study) A high-availability digital asset system focused on scalability and data integrity.
+* **[End-to-End Corporate DevOps on AWS](https://github.com/vestersly/End-to-End-Corporate-DevOps-Pipeline-on-AWS)** - Production-grade infrastructure focusing on high availability and fault tolerance.
+* **[AWS Secure 3-Tier Web App](https://github.com/vestersly/AWS-Devops-pipeline-2)** - Multi-AZ VPC architecture featuring RDS failover and load balancing.
+
+#### ⚙️ 3. Automation & DevSecOps
+* **[Enterprise DevSecOps Pipeline](https://github.com/vestersly/corporate-devsecops-pipeline-aws)** - Full CI/CD with integrated Trivy scanning, SonarQube quality audits, and Kubernetes.
+* **[Serverless AI Narrator](https://github.com/vestersly/Polly-Powered-Audio-Narrator)** - Event-driven Text-to-Speech system using Lambda, Polly, and S3.
+* **[Infrastructure as Code (IaC)](https://github.com/vestersly/DevopsProject1)** - Modular environment provisioning using Terraform/HCL.
 
 ---
 
-### 🛠️ Technical Stack
-**Cloud:** AWS (VPC, IAM, Lambda, Aurora) | **DevOps:** Jenkins, Kubernetes, Terraform | **Security:** HIDS, Nmap, Trivy, Linux Hardening | **Scripting:** Bash, Python
+### 🛠️ Technical Arsenal
+* **Cloud:** AWS (VPC, IAM, Lambda, Aurora, CloudWatch)
+* **Security:** HIDS, Nmap, Wireshark, Trivy, Linux Hardening
+* **DevOps:** Jenkins, Kubernetes, Docker, Terraform, CI/CD
+* **OS/Scripting:** Linux (Ubuntu/Debian), Bash, Python, PowerShell
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Portfolio:** [https://github.com/vestersly](https://github.com/vestersly)

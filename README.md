@@ -1,36 +1,61 @@
-# 👋 I'm Vestersly | Cloud & Security Engineer
-> Specialized in High-Availability AWS Architectures, Linux Hardening, and DevSecOps Governance.
+<p align="center">
+  <strong>CONFIDENTIALITY • INTEGRITY • AVAILABILITY</strong><br/>
+  Security-first engineering guided by the CIA Triad<br/>
+  and operationalized through the McCumber Cube
+</p>
+
+<hr/>
+
+<h1 align="center">🛡️ Vestersly</h1>
+<h3 align="center">Security-First Cloud & Systems Engineer</h3>
+
+<p align="center">
+I design and operate resilient, mission-critical systems<br/>
+with security treated as a <b>baseline</b>, not an afterthought.
+</p>
 
 ---
 
-### 🏛️ Professional Project Pillars
+## 🎯 Professional Focus
 
-#### 🛡️ 1. Enterprise Security & Governance
-* **[Intrusion Detection System (Orange Belgium Collaboration)](https://github.com/vestersly/linux-intrusion-detection-system)** - A modular Bash-based HIDS for real-time monitoring and automated alerting.
-* **[Network Security & DMZ Design](https://github.com/vestersly/nmap-wireshark-lab)** - Enterprise-grade network segmentation and vulnerability auditing using Nmap and Wireshark.
-* **[Python Network Audit Tool](https://github.com/vestersly/port_scanner_project)** - Multithreaded security scanner for rapid reconnaissance in zero-trust environments.
-* **[Linux Server Hardening Suite](https://github.com/vestersly/linux-intrusion-detection-system)** - Automation of SSH/UFW policies and least-privilege governance.
+I am a **security-first engineer** with long-term experience in **high-pressure operational environments**, now fully focused on **cybersecurity, Linux systems, and secure cloud infrastructure**.
 
-#### ☁️ 2. AWS Architecture & Scalability
-* **[Project Valora: Secure Transaction Framework](https://github.com/vestersly)** - (Architectural Case Study) A high-availability digital asset system focused on scalability and data integrity.
-* **[End-to-End Corporate DevOps on AWS](https://github.com/vestersly/End-to-End-Corporate-DevOps-Pipeline-on-AWS)** - Production-grade infrastructure focusing on high availability and fault tolerance.
-* **[AWS Secure 3-Tier Web App](https://github.com/vestersly/AWS-Devops-pipeline-2)** - Multi-AZ VPC architecture featuring RDS failover and load balancing.
+My work emphasizes:
+- disciplined security thinking  
+- operational reliability under stress  
+- responsible disclosure and confidentiality  
 
-#### ⚙️ 3. Automation & DevSecOps
-* **[Enterprise DevSecOps Pipeline](https://github.com/vestersly/corporate-devsecops-pipeline-aws)** - Full CI/CD with integrated Trivy scanning, SonarQube quality audits, and Kubernetes.
-* **[Serverless AI Narrator](https://github.com/vestersly/Polly-Powered-Audio-Narrator)** - Event-driven Text-to-Speech system using Lambda, Polly, and S3.
-* **[Infrastructure as Code (IaC)](https://github.com/vestersly/DevopsProject1)** - Modular environment provisioning using Terraform/HCL.
+I build systems that are secure **by design, by operation, and by mindset**.
 
 ---
 
-### 🛠️ Technical Arsenal
-* **Cloud:** AWS (VPC, IAM, Lambda, Aurora, CloudWatch)
-* **Security:** HIDS, Nmap, Wireshark, Trivy, Linux Hardening
-* **DevOps:** Jenkins, Kubernetes, Docker, Terraform, CI/CD
-* **OS/Scripting:** Linux (Ubuntu/Debian), Bash, Python, PowerShell
+## 🔐 Security Baseline — The CIA Triad
+
+Every technical decision I make is grounded in the **CIA Triad**:
+
+| Principle | Engineering Focus |
+|---------|------------------|
+| 🔒 **Confidentiality** | Least privilege, access control, data protection |
+| 🧾 **Integrity** | Change detection, system trust, verifiable states |
+| ⚙️ **Availability** | Resilience, fault tolerance, operational continuity |
+
+CIA defines **what must be protected** and **why**.
 
 ---
 
-### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio:** [https://github.com/vestersly](https://github.com/vestersly)
+## 🧊 The McCumber Cube — Making Security Real
+
+To move from theory to **real-world security**, I apply the **McCumber Cube**, ensuring security is addressed across **technology, process, and people**.
+
+### 🧰 Technology & Implementation
+- Linux system hardening and secure configuration  
+- Patch management and continuous monitoring  
+- Defense against known **and unknown** vulnerabilities  
+
+### 🧭 Process & Governance
+- Security embedded into operational workflows  
+- DevSecOps and change control discipline  
+- Proactive threat modeling  
+
+### 🧠 People & Awarenes
+

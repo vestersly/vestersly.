@@ -57,5 +57,5 @@ To move from theory to **real-world security**, I apply the **McCumber Cube**, e
 - DevSecOps and change control discipline  
 - Proactive threat modeling  
 
-### 🧠 People & Awarenes
+### 🧠 People & Awareness
 
